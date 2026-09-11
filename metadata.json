@@ -1,0 +1,6 @@
+{
+  "name": "GrabFood Delivery & Live Order Tracking",
+  "description": "On-demand food delivery platform featuring real-time order tracking, live GPS courier updates, interactive menus, customer inquiry forms, and logistics engineering projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
